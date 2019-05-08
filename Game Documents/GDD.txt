@@ -1,0 +1,48 @@
+Codename: Montreal
+
+Control Scheme:
+	On mobile, there will be on screen GUI buttons for movement and shooting, as well as 3 buttons for abilities and ultimates.
+	On desktop mouse and keyboard will be used.
+	
+Target Audience:
+	General audience.
+	
+Platforms:
+	Android, IOS, Steam etc.
+	
+Genre:
+	Casual, Shoot'em Up!
+	
+Mission:
+	Game will feature 2 (or 3) ship classes to choose from, several enemy and boss types and various hazards. 
+	It offers fast paced action, forces players to make strategic upgrade choices and pay attention to their ability cooldowns and reload mechanics.
+	
+Game Analysis:
+	Montreal is a classic space shooter game with 2D pixel graphics and minimalistic art style. It features
+	several playable space ships and at least 5 enemy mobs, 3 boss types as well as an upgrade system, cooldown and reload mechanics.
+	
+Story and Characters:
+	None. There will only be some kind of narrative.
+	
+Gameplay:
+	Every ship has one primary fire, 2 abilities and one ultimate skill.
+	Every ship has reload mechanic, shield, health and ultimate bar.
+	Every ship will have uniuqe upgrades.
+
+	Movement will be dynamic and will use built-in Unity physics. No rotation.
+
+	Game will have three basic enemy types and there will be elite variations of these types with different color.
+	There can be psuedo-swarm type enemies (for example "V" formation) or enemy groups that are constructed from basic types.
+
+	Enemies will drop as loot: health, shield, ultimate-booster, currency.
+
+Level Design:
+	There will be three episodes.
+	Every episodes have 2 or 3 missions.
+	Every episode will have a boss at the very end.
+	First and second bosses will be used in episode 3 again as minibosses.
+
+	Every level will be vertical flow. When player reaches the boss vertical 
+	flow will be stopped and background will be static. Every enemy will have its
+	own lane but special enemies can move between the lanes. There will be hazards
+	which will include asteroids and ship wrecks.
