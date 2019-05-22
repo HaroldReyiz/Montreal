@@ -1,0 +1,23 @@
+Realese 1.0 {
+
+	- Movement 
+	- Combat 
+	- GameManger
+
+}
+
+Realese 2.0 {
+
+	- PoolManager
+	- SceneManager
+	- UpgradeConfig
+
+}
+
+Realese 3.0 {
+	
+	- UI
+	- MapGenerator
+	- VisualEffectSystem
+	- AuidioSystem
+}

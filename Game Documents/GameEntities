@@ -1,0 +1,30 @@
+GameEntities {
+
+	Ship {
+		Player
+		Enemy
+		Boss
+	}
+	
+	Hazard {
+		Meteor
+		Wreckage
+	}
+
+	Projectile{
+		Bullet
+		Missile
+		Bomb
+		Lazer
+	}
+	
+	Collectable{
+		Shield
+		HP
+		Currency
+		Boosters
+	}
+}
+
+					 
+						
